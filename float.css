@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    background-color: rgb(26, 27, 27);
+    font-weight: bolder;
+}
+#container{
+    background-color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: 2px solid white;
+    position: relative;
+
+}
+header{
+    background-color: rgb(226, 47, 15);
+    /* margin: 5px; */
+    height: 5rem;
+    color: white;
+    padding-top: 3.5rem;
+    margin-bottom: .5rem;
+    text-align: center;
+
+}
+nav{
+    background-color: rgb(35, 35, 196);
+    height: 30px;
+    margin-bottom: 5px;
+    text-align: center;
+    padding-top: 10px;
+}
+aside{
+    background-color: rgb(243, 243, 8);
+    float: left;
+    height: 13rem;
+    width: 10rem;
+    text-align:center ;
+    padding-top: 120px;
+
+}
+
+
+main{
+    background-color: aqua;
+    height: 20.5rem ;
+    text-align: center;
+
+}
+footer{
+    background-color: rgb(66, 65, 65);
+    height: 60px;
+    text-align: center;
+    padding-top: 50px;
+}
+.clear1{
+    clear: both;
+}
